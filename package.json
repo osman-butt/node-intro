@@ -1,0 +1,16 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "description": "Node intro app",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "author": "Osman Butt",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
